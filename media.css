@@ -1,0 +1,633 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 1200px) {
+  .hero img {
+    width: 436px;
+  }
+  .manag img {
+    width: 436px;
+  }
+  .support img {
+    width: 436px;
+  }
+  .optimisation img {
+    width: 436px;
+  }
+  .table-card {
+    width: 292.649px;
+    height: 413px;
+  }
+  .table-cards {
+    width: 292.649px;
+    height: 413px;
+  }
+  .table-card h4 {
+    padding: 0 0 10px 0;
+  }
+  .table-cards h4 {
+    padding: 0 0 10px 0;
+  }
+  .client-card {
+    width: 303px;
+  }
+}
+@media (max-width: 1024px) {
+  .header-nav {
+    display: none;
+  }
+  .table-card {
+    width: 247.649px;
+  }
+  .table-cards {
+    width: 247.649px;
+  }
+  .hero-text h1 {
+    font-size: 37px;
+    width: 487px;
+  }
+  .hero img {
+    width: 383px;
+  }
+  .hero-text p {
+    font-size: 17px;
+    width: 376px;
+  }
+  .hero-btn1 {
+    width: 153px;
+    height: 51px;
+  }
+  .hero-btn2 {
+    width: 153px;
+    height: 51px;
+  }
+  .product-h1 {
+    font-size: 30px;
+  }
+  .client-card p {
+    font-size: 14px;
+    width: 232px;
+  }
+  .client-card {
+    width: 264px;
+  }
+  .business-main {
+    width: 830px;
+  }
+  .businees-text h1 {
+    font-size: 27px;
+    width: 362px;
+  }
+  .footer-start h1 {
+    font-size: 28px;
+  }
+  .footer-nav h1 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 992px) {
+}
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+  }
+  .product {
+    flex-direction: column;
+  }
+  .product-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  #manag {
+    padding: 0;
+  }
+  .manag {
+    flex-direction: column;
+  }
+  .support {
+    flex-direction: column;
+  }
+  .support img {
+    margin: 20px 0 40px 0;
+  }
+  .support-ctext h1 {
+    font-size: 30px;
+  }
+  .support-text p {
+    font-size: 15px;
+    width: 425px;
+  }
+  .optimisation {
+    flex-direction: column;
+  }
+  .quick-main {
+    flex-direction: column;
+  }
+  #content {
+    padding: 5px 0 100px 0;
+  }
+  .content {
+    flex-direction: column;
+  }
+
+  .table-main {
+    flex-direction: column;
+    margin: 20px 0;
+  }
+  .table-card {
+    margin: 15px 0;
+  }
+  .table-card button {
+    font-size: 15px;
+  }
+  .table-cards button {
+    font-size: 15px;
+  }
+  .bisness {
+    width: 70%;
+  }
+  .business-main {
+    flex-direction: column;
+    width: 517px;
+    height: 638px;
+    text-align: center;
+    width: 70%;
+  }
+  .client {
+    flex-direction: column;
+  }
+  .client-card {
+    margin: 15px;
+  }
+  .footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .footer-nav {
+    margin-top: 35px;
+  }
+  .footer-text {
+    margin-top: 35px;
+  }
+  .footer-text form textarea {
+    width: 222px;
+    height: 32px;
+  }
+  .footer-text button {
+    font-size: 12px;
+  }
+}
+@media (max-width: 576px) {
+  .hero-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
+  .hero-text h1 {
+    font-size: 30px;
+    width: 313px;
+  }
+  .hero img {
+    width: 70%;
+  }
+  .hero-btn1 {
+    width: 139px;
+    height: 39px;
+  }
+  .product-h1 {
+    font-size: 25px;
+  }
+  .product-card h1 {
+    font-size: 20px;
+  }
+  .product-card p {
+    font-size: 15px;
+    width: 164px;
+  }
+  .manag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
+  .manag img {
+    width: 70%;
+  }
+  .manaf-text h1 {
+    font-size: 31px;
+  }
+  .manag-text p {
+    font-size: 15px;
+    width: 371px;
+  }
+  .support {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
+  .support img {
+    width: 70%;
+  }
+  .support-text h1 {
+    font-size: 31px;
+  }
+  .support-text p {
+    font-size: 15px;
+    width: 371px;
+  }
+  .optimisation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
+  .optimisation img {
+    width: 70%;
+  }
+  .optimisaation-text h1 {
+    font-size: 30px;
+  }
+  .optimisation-text p {
+    font-size: 15px;
+    width: 371px;
+  }
+  .quick h1 {
+    font-size: 29px;
+  }
+  .quick p {
+    font-size: 14px;
+  }
+  .quick-main img {
+    width: 100px;
+    height: 100px;
+  }
+  .quick-sms {
+    width: 235px;
+    height: 41px;
+  }
+  .quick button span {
+    font-size: 11px;
+  }
+  .quick button {
+    width: 160px;
+    height: 40px;
+  }
+  .content {
+    text-align: center;
+  }
+  .content h1 {
+    font-size: 29px;
+  }
+  .content-card p {
+    font-size: 21px;
+  }
+  .content-card h4 {
+    font-size: 21px;
+  }
+  .table h1 {
+    font-size: 30px;
+  }
+  .table p {
+    font-size: 14px;
+  }
+
+  .table-card h1 {
+    padding: 13px 0 7px 0;
+    font-size: 23px;
+  }
+  .table-date h1 {
+    font-size: 60px;
+  }
+  .table-date1 h2 {
+    font-size: 19px;
+  }
+  .table-card h4 {
+    font-size: 14px;
+  }
+  .table-card {
+    height: 330px;
+  }
+  .table-card button {
+    padding: 9px 20px 7px 18px;
+  }
+  .table-cards h1 {
+    padding: 13px 0 7px 0;
+    font-size: 23px;
+  }
+  .table-dates h1 {
+    font-size: 60px;
+  }
+  .table-dates1 h2 {
+    font-size: 19px;
+  }
+  .table-cards h4 {
+    font-size: 14px;
+  }
+  .table-cards {
+    height: 330px;
+  }
+  .table-cards button {
+    padding: 9px 20px 7px 18px;
+  }
+  .client-topic h1 {
+    font-size: 29px;
+  }
+  .client-topic p {
+    font-size: 14px;
+  }
+  .businees-text h1 {
+    font-size: 22px;
+    width: 320px;
+  }
+  .businees-text button {
+    font-size: 16px;
+  }
+}
+@media (max-width: 400px) {
+  .hero-text h1 {
+    font-size: 25px;
+  }
+  .hero-text p {
+    font-size: 14px;
+    width: 314px;
+  }
+  .hero-btn1 {
+    width: 106px;
+    height: 34px;
+    font-size: 14px;
+  }
+  .hero-btn2 {
+    font-size: 14px;
+    width: 132px;
+    height: 51px;
+  }
+  .product-h1 {
+    font-size: 20px;
+  }
+  .figur,
+  .blue,
+  .purple,
+  .orange {
+    width: 42px;
+    height: 42px;
+  }
+  .product-card h1 {
+    font-size: 20px;
+  }
+  .product-card p {
+    font-size: 15px;
+    width: 181px;
+  }
+  .product-btn span {
+    font-size: 12px;
+  }
+  .manag-text h3 {
+    font-size: 15px;
+    font-weight: 400;
+  }
+  .manag-text h1 {
+    font-size: 29px;
+  }
+  .manag-text p {
+    font-size: 14px;
+    width: 315px;
+  }
+  .support-text h3 {
+    font-size: 15px;
+    font-weight: 400;
+  }
+  .support-text h1 {
+    font-size: 29px;
+  }
+  .support-text p {
+    font-size: 14px;
+    width: 315px;
+  }
+  .support-figur,
+  .green,
+  .red {
+    width: 36px;
+    height: 36px;
+  }
+  .optimisation-text h3 {
+   font-size: 16px;
+   font-weight: 400;
+ }
+ .optimisation-text h1 {
+   font-size: 28px;
+ }
+ .optimisation-text p {
+   font-size: 15px;
+   width: 315px;
+ }
+ .quick h1 {
+   font-size: 28px;
+ }
+ .quick p {
+   font-size: 15px;
+   width: 315px;
+ }
+ .content h1 {
+   font-size: 28px;
+ }
+ .content p {
+   font-size: 15px;
+   width: 315px;
+ }
+ .business-main{
+   width: 80%;
+ }
+ .businees-text h1 {
+   font-size: 18px;
+   width: 231px;
+}
+.business-main img{
+  width: 100%;
+}
+.business-main{
+   height: 465px;
+}
+.footer-start h1 {
+   font-size: 23px;
+}
+.footer-start span {
+   width: 31px;
+   height: 28px;
+}
+.footer-nav h1 {
+   font-size: 17px;
+}
+.footer-nav a {
+   font-size: 14px;
+}
+.footer-text h1 {
+    font-size: 17px;
+}
+.footer-text form textarea {
+   width: 182px;
+}
+.footer-text button {
+   font-size: 10px;
+}
+.footer-end h2 {
+   font-size: 13px;
+}
+}
+@media (max-width: 376px) {
+}
+@media (max-width: 320px) {
+   .hero-text h1 {
+      font-size: 23px;
+  }
+  .hero-text p {
+   font-size: 14px;
+   width: 275px;
+}
+.hero-btn1 {
+   width: 93px;
+   height: 32px;
+   font-size: 12px;
+}
+.hero-btn2 {
+   font-size: 12px;
+   width: 146px;
+   margin: 0;
+}
+.manag-text h1 {
+   font-size: 27px;
+}
+.manag-text p {
+   font-size: 12px;
+   width: 264px;
+}
+.support-text h1 {
+   font-size: 27px;
+}
+.support-text p {
+   font-size: 12px;
+   width: 264px;
+}
+.support-card p{
+   width: 226px;
+}
+.optimisation-text h1 {
+   font-size: 27px;
+}
+.optimisation-text p {
+   font-size: 12px;
+   width: 264px;
+}
+.quick h1 {
+   font-size: 27px;
+}
+.quick p {
+   font-size: 12px;
+   width: 264px;
+}
+.quick-main img {
+   width: 84px;
+   height: 84px;
+}
+.quick-sms {
+   width: 184px;
+   height: 34px;
+}
+.content h1 {
+   font-size: 25px;
+}
+.content p {
+   font-size: 12px;
+   width: 264px;
+}
+.content-card h3 {
+   font-size: 13px;
+}
+.content-card h3 span {
+   font-size: 14px;
+}
+.content-card{
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   text-align: center;
+}
+.content-card p {
+   font-size: 15px;
+   width: 169px;
+}
+.content-card h4 {
+   font-size: 15px;
+   width: 169px;
+}
+.table h1 {
+   font-size: 25px;
+}
+.table p {
+   font-size: 13px;
+}
+.table-card {
+   width: 80%;
+}
+.table-cards {
+   width: 80%;
+}
+.table-date h1{
+   font-size: 50px;
+}
+.table-dates h1{
+   font-size: 50px;
+}
+.table-card button {
+   font-size: 13px;
+}
+.table-cards button {
+   font-size: 13px;
+}
+.client-topic h1 {
+   font-size: 25px;
+}
+.client-topic p {
+   font-size: 12px;
+   width: 260px;
+}
+.client-card {
+   width: 247px;
+}
+.client-star {
+   font-size: 15px;
+}
+.client-card p {
+   font-size: 12px;
+   width: 202px;
+}
+.client-end h2 {
+   font-size: 13px;
+}
+.client-end h2 span {
+   font-size: 13px;
+}
+.businees-text h1 {
+   font-size: 14px;
+   width: 188px;
+}
+.businees-text button {
+   font-size: 13px;
+}
+.footer-end h2 {
+   font-size: 11px;
+}
+}
